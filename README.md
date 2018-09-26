@@ -1,10 +1,15 @@
 ## Instructions for running the code
 
 Download the file
+
 Open terminal
+
 CD to the directory your console_memory file is located
+
 Make sure you are on the right directory by typing 'ls' on the console and finding the file console_memory.py on the listed files
+
 Type on terminal 'python console_memory' and your game starts!
+
 PS: In case you do not have python already installed, type in your terminal 'brew install python'
 if this does not work, you can also download it through their website https://www.python.org/
 
