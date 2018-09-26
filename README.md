@@ -63,6 +63,8 @@ will cover again the cards is called.
 ## Additional observations
 
 Check my github: https://github.com/luccab
+
 Social network website(front+back): https://afternoon-bastion-92445.herokuapp.com/
+
 My website where I intend to post articles doing statistical analysis and problems related to
 ruby on rails development: https://nameless-meadow-85656.herokuapp.com/
